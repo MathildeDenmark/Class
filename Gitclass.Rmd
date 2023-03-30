@@ -28,9 +28,7 @@ plot(pressure)
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
 
-git config --global user.email "mklitgaard1@sheffield.ac.uk"
-git config --global user.name "MathildeDenmark"
-
+#git config --global user.email "mklitgaard1@sheffield.ac.uk"
+#git config --global user.name "MathildeDenmark"
 #to set your account's default identity.
-Omit --global 
-#to set the identity only in this repository.
+
